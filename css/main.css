@@ -1,0 +1,25 @@
+html {
+    background-image: url('../img/star.jpg');
+}
+
+.container {
+    margin: 0 auto;
+}
+
+img {
+    margin: 0 auto;
+    display: block
+}
+
+.hideme {
+    opacity: 0;
+}
+
+.magic {
+    text-align: center;
+    color: #fff;
+}
+
+span {
+    color: darkorange;
+}
